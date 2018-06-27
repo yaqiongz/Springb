@@ -1,5 +1,6 @@
 # Springboardhw
 ## Part 1: Mini-projects
+1. [Work with JSON files](https://github.com/yaqiongz/Springboardhw/blob/master/data_wrangling_json/5_2_JSON.ipynb): This mini project work with a JSON file which contains world bank projects informations.
 
 
 ## Part 2: Capstone project 2：
